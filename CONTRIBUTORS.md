@@ -1290,10 +1290,10 @@ Thanks goes to these wonderful people ✨
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/vivacarvajalito">
-                    <img src="https://avatars.githubusercontent.com/u/1446654?v=4" width="100;" alt="vivacarvajalito"/>
+                <a href="https://github.com/carvalab">
+                    <img src="https://avatars.githubusercontent.com/u/1446654?v=4" width="100;" alt="carvalab"/>
                     <br />
-                    <sub><b>vivacarvajalito</b></sub>
+                    <sub><b>carvalab</b></sub>
                 </a>
             </td>
             <td align="center">
