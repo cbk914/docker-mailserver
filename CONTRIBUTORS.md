@@ -864,10 +864,10 @@ Thanks goes to these wonderful people ✨
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/5ven">
-                    <img src="https://avatars.githubusercontent.com/u/17012?v=4" width="100;" alt="5ven"/>
+                <a href="https://github.com/adrl-sven-kauber">
+                    <img src="https://avatars.githubusercontent.com/u/17012?v=4" width="100;" alt="adrl-sven-kauber"/>
                     <br />
-                    <sub><b>5ven</b></sub>
+                    <sub><b>adrl-sven-kauber</b></sub>
                 </a>
             </td>
             <td align="center">
