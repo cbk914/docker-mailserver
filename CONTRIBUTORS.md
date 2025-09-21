@@ -336,10 +336,10 @@ Thanks goes to these wonderful people ✨
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/robertdolca">
-                    <img src="https://avatars.githubusercontent.com/u/383543?v=4" width="100;" alt="robertdolca"/>
+                <a href="https://github.com/robertdxyz">
+                    <img src="https://avatars.githubusercontent.com/u/383543?v=4" width="100;" alt="robertdxyz"/>
                     <br />
-                    <sub><b>robertdolca</b></sub>
+                    <sub><b>robertdxyz</b></sub>
                 </a>
             </td>
             <td align="center">
