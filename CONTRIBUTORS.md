@@ -1832,10 +1832,10 @@ Thanks goes to these wonderful people ✨
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/yottapanda">
-                    <img src="https://avatars.githubusercontent.com/u/33595996?v=4" width="100;" alt="yottapanda"/>
+                <a href="https://github.com/keval6b">
+                    <img src="https://avatars.githubusercontent.com/u/33595996?v=4" width="100;" alt="keval6b"/>
                     <br />
-                    <sub><b>yottapanda</b></sub>
+                    <sub><b>keval6b</b></sub>
                 </a>
             </td>
             <td align="center">
