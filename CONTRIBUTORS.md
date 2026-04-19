@@ -1862,10 +1862,10 @@ Thanks goes to these wonderful people ✨
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/UltraCoderRU">
-                    <img src="https://avatars.githubusercontent.com/u/1450836?v=4" width="100;" alt="UltraCoderRU"/>
+                <a href="https://github.com/kirirururu">
+                    <img src="https://avatars.githubusercontent.com/u/1450836?v=4" width="100;" alt="kirirururu"/>
                     <br />
-                    <sub><b>UltraCoderRU</b></sub>
+                    <sub><b>kirirururu</b></sub>
                 </a>
             </td>
             <td align="center">
